@@ -24,6 +24,8 @@ Throughout my career I will be uploading projects that range from small (1 techi
 
 ---
 
+## 🛠️ Tech Stack
+
 ### 📚Progamming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -34,7 +36,7 @@ Throughout my career I will be uploading projects that range from small (1 techi
 
 
 ### 📊Data Visualization & Business Intelligence
-{Tableau]  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<img width="87" height="32" alt="Screenshot 2026-03-22 140028" src="https://github.com/user-attachments/assets/e04b79c9-7d7a-4ff2-9ef2-45df12af57da" /> ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
  
 
 ### 📦Data Science Libraries
@@ -46,7 +48,7 @@ Throughout my career I will be uploading projects that range from small (1 techi
 
 ---
 
-### 💡Fun Facts About Me
+## 💡Fun Facts About Me
 - 🔴 I am an asprising YouTube/Twitch Streamer 
 - 🏋️ I love going to the gym
 - 🥋 I practice MMA
@@ -57,7 +59,7 @@ Throughout my career I will be uploading projects that range from small (1 techi
 
 ---
 
-### 🌐Connect With Me
+## 🌐Connect With Me
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 Feel free to reach out to me via my Linkedin or Gmail. Lets have a coffee chat!
