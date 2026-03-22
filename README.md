@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 I'm Farhan, a Data Analyst based in Toronto, Canada!
 
-I am also student at Toronto Metropolitan University. I have worked on many projects and acquired techical skills such as SQL, Excel, Python, Tableau, Power BI. Aswell as cloud platforms like AWS and Microsoft Azure. 
+I am currently pursuing my Bachelor of Commerce (Honours) - Business Technology Management at Toronto Metropolitan University. I have worked on many projects and acquired techical skills such as SQL, Excel, Python, Tableau, Power BI. Aswell as cloud platforms like AWS and Microsoft Azure. 
 
-Even now I am working on many more projects that range from small (1 techical tool used) to big projects (3+ techical tools used)!
+Throughout my career I will be working on many more projects that range from small (1 techical tool used) to big projects (3+ techical tools used)!
 
 ---
 
