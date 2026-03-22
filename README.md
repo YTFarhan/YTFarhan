@@ -60,7 +60,7 @@ Throughout my career I will continue to work on and add many more projects that 
 ---
 
 ## 🌐Connect With Me
-  <a href="https://dineshbarri-portfolio.vercel.app" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 <a href="https://www.linkedin.com/in/farhanchowdhury07" target="_blank">
