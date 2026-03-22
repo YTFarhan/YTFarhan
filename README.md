@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm Farhan, a Data Analyst based in Toronto, Canada!
 
-I am currently pursuing my Bachelor of Commerce (Honours) - Business Technology Management at Toronto Metropolitan University. I have worked on many projects and acquired techical skills such as SQL, Excel, Python, Tableau, Power BI. Aswell as cloud platforms like AWS and Microsoft Azure. 
+I am currently pursuing my Bachelor of Commerce (Honours) - Business Technology Management at Toronto Metropolitan University. I have worked on many projects and acquired techical skills such as SQL, Excel, Python, R, Tableau and Power BI. Aswell as cloud platforms like AWS and Microsoft Azure. 
 
 Throughout my career I will continue to work on and add many more projects that range from small (1 techical tool used) to big projects (3+ techical tools used)!
 
@@ -27,7 +27,7 @@ Throughout my career I will continue to work on and add many more projects that 
 ## 🛠️ Tech Stack
 
 ### 📚Progamming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 
 ### 🗄️Databases
