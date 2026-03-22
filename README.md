@@ -44,8 +44,9 @@ Throughout my career I will be uploading projects that range from small (1 techi
 - 🔴 I am an asprising YouTube/Twitch Streamer 
 - 🏋️ I love going to the gym
 - 🥋 I practice MMA
-- 🎮 Favourite Video Game: Red Dead Rdemption 2
-- 🎥 Favourite Movies: Intersteller, Americian Psyco, Truman Show
+- 🐉 Into Anime - Dragon Ball Z is a Favourite 
+- 🎮 Favourite Video Game: Red Dead Redemption 2
+- 🎥 Favourite Movies: Interstellar, American Psycho, The Truman Show
 - 😜 Hoobies: Video Games, Coding, Sports/Working Out, Content Creation
 
 
