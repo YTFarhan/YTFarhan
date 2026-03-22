@@ -22,25 +22,31 @@ I have worked on many projects and I acquired techical skills such as SQL, Excel
 
 Throughout my career I will be uploading projects that range from small (1 techical tool used) to big projects (3+ techical tools used).
 
+---
+
+### 📚Progamming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-### Tools & Tech Stack
+### 🗄️Databases
 
-- SQL
-- Python
-- Microsoft Excel
-- Tableau
-- Power BI
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+### 📊Data Visualization & Business Intelligence
+{Tableau]  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+ 
+
+### 📦Data Science Libraries
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+
+
+### ☁️Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 	![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
-### Cloud Platforms
-- AWS (Amazon Web Services)
-- Microsoft Azure
-
----
-
-### A Bit About Me
+### 💡Fun Facts About Me
 - 🔴 I am an asprising YouTube/Twitch Streamer 
 - 🏋️ I love going to the gym
 - 🥋 I practice MMA
@@ -49,5 +55,9 @@ Throughout my career I will be uploading projects that range from small (1 techi
 - 🎥 Favourite Movies: Interstellar, American Psycho, The Truman Show
 - 😜 Hoobies: Video Games, Coding, Sports/Working Out, Content Creation
 
+---
+
+### 🌐Connect With Me
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 Feel free to reach out to me via my Linkedin or Gmail. Lets have a coffee chat!
