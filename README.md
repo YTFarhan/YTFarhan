@@ -22,6 +22,11 @@ I am currently pursuing my Bachelor of Commerce (Honours) - Business Technology 
 
 Throughout my career I will continue to work on and add many more projects that range from small (1 techical tool used) to big projects (3+ techical tools used)!
 
+📫 How to reach me: farhanchowdhury456@gmail.com
+
+📄 **Resume:** <a href="https://github.com/YTFarhan/YTFarhan/blob/main/assets/Data%20Resume.pdf">View Resume</a>
+
+
 ---
 
 ## 🛠️ Tech Stack
