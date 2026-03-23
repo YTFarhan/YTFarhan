@@ -24,7 +24,7 @@ Throughout my career I will continue to work on and add many more projects that 
 
 📫 How to reach me: farhanchowdhury456@gmail.com
 
-📄 **Resume:** <a href="https://github.com/YTFarhan/YTFarhan/blob/main/assets/Data%20Resume.pdf">View Resume</a>
+📄 **Resume:** <a href="https://github.com/YTFarhan/YTFarhan/blob/main/assets/Farhan%20C.%20Data%20Resume.pdf">View Resume</a>
 
 
 ---
