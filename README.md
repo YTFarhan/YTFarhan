@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> Hi there 
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> Hi there, I'm [Farhan Chowdhury](https://farhanchowdhury-portfolio.lovable.app)!
 
 <!--
 **YTFarhan/YTFarhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Farhan, a Data Analyst based in Toronto, Canada!
-
-I am currently pursuing my Bachelor of Commerce (Honours) - Business Technology Management at Toronto Metropolitan University. I have worked on many projects and acquired techical skills such as SQL, Excel, Python, R, Tableau and Power BI. Aswell as cloud platforms like AWS and Microsoft Azure. 
+I'm a Data Analyst based in Toronto, Canada and who is currently pursuing my Bachelor of Commerce (Honours) - Business Technology Management at Toronto Metropolitan University. I have worked on many projects and acquired techical skills such as SQL, Excel, Python, R, Tableau and Power BI. Aswell as cloud platforms like AWS and Microsoft Azure. 
 
 Throughout my career I will continue to work on and add many more projects that range from small (1 techical tool used) to big projects (3+ techical tools used)!
 
@@ -73,7 +71,8 @@ Throughout my career I will continue to work on and add many more projects that 
 
 ## 🌐Connect With Me
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+    <a href="https://farhanchowdhury-portfolio.lovable.app" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 <a href="https://www.linkedin.com/in/farhanchowdhury07/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
